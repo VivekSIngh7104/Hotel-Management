@@ -1,0 +1,4 @@
+B101,Available,Cleaned,2799.0,Single
+B203,Available,Cleaned,2599.0,Single
+B-204,Available,Cleaned,2899.0,Single
+B-207,Available,Cleaned,2800.0,Double
