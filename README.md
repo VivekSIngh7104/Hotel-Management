@@ -94,27 +94,6 @@ Each room's data is written in a line-by-line or comma-separated format (as defi
 
 ---
 
-## ✅ Marking Rubric Mapping
-
-| Criteria                         | Marks |
-|----------------------------------|-------|
-| Core Feature Implementation      | ✅ 5   |
-| Error Handling & Robustness      | ✅ 5   |
-| Integration of Components        | ✅ 5   |
-| Event Handling & Processing      | ✅ 5   |
-| Data Validation                  | ✅ 5   |
-| Code Quality & Innovative Features | ✅ 3 |
-| Documentation                    | ✅ 3   |
 
 ---
 
-## 🙋 Author
-
-**Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 📜 License
-
-For academic use only. Reuse or redistribution without permission is not allowed.
